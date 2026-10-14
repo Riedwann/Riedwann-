@@ -1,8 +1,3 @@
-# Riedwann-
-# Hi, I'm Riedwann 👋
-— Nigeria-based, into web3.
-— 3MTT tech-talent programme.
-— Blockchain, community building, open source.
-— Exploring Ethereum tooling, open to contributing.
-— Seeking moderation roles on web3 Discord servers.
+Nigeria-based Web3 enthusiast in the 3MTT programme, exploring blockchain, Ethereum tooling, open source, and community building. Open to contributing to Web3 projects and Discord moderation roles.
+
 Discord: @riedwaanszn
